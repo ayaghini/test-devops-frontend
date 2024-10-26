@@ -1,3 +1,14 @@
+//npm i
+//git init
+//git add -A
+//git commit -m "init"
+// git remote add origin https://github.com/ayaghini/test-devops-frontend.git
+// git branch -M main
+// git push -u origin main
+//render.com -> new -> static type
+//buid directiry: ./dist
+
+
 
 import { useState, useEffect } from "react";
 import "./App.css";
